@@ -33,6 +33,8 @@ better results with pngcairo; as an example the
    in next plot as long as not overwritten again
  - Plot is exported to png
 
+![](DemoMultiplot.png | width=320)
+
 ## DemoDataContained
 
  - Possibility to have the data inside the script.
