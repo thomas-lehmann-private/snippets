@@ -21,7 +21,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 #
-set terminal png size 1400,1000 enhanced font ",20"
+set terminal pngcairo size 1400,1000 enhanced font ",20"
 set output "DemoMultiplot.png"
 
 # a very simple plot functionality
