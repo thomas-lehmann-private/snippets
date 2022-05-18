@@ -31,9 +31,9 @@ better results with pngcairo; as an example the
  - Label (axes) and title fonts are changed (size)
  - Options set before a plot are also available
    in next plot as long as not overwritten again
- - Plot is exported to png
+ - Plot is exported to png (see below)
 
-<img src="DemoMultiplot.png" width="320px">
+<img src="DemoMultiplot.png" width="640px">
 
 ## DemoDataContained
 
@@ -46,9 +46,9 @@ better results with pngcairo; as an example the
    (here using a linear function)
  - Grid is shown
  - Title color is changed
- - Plot is exported to png
+ - Plot is exported to png (see below)
 
-<img src="DemoDataContained.png" width="320px">
+<img src="DemoDataContained.png" width="640px">
 
 ## Useful links
 
