@@ -33,7 +33,7 @@ better results with pngcairo; as an example the
    in next plot as long as not overwritten again
  - Plot is exported to png
 
-![](DemoMultiplot.png | width=320)
+<img src="DemoMultiplot.png" width="320px">
 
 ## DemoDataContained
 
@@ -48,6 +48,7 @@ better results with pngcairo; as an example the
  - Title color is changed
  - Plot is exported to png
 
+<img src="DemoDataContained.png" width="320px">
 
 ## Useful links
 
